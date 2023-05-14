@@ -25,7 +25,7 @@ layout: default
 2017年3月　福岡県立宗像高等学校　卒業
 2014年4月　福岡県立宗像高等学校　入学   -->
 
-研究や学外活動の詳細については，[こちら](./detail-page.html)からどうぞ．
+研究や学外活動の詳細については，[活動の詳細](./detail.html)からどうぞ．
 
 ### **国際会議**（査読あり）
 * __Fumiya Matsuzaki__, and Takuya Ikeda, "Distributed formation control for discrete-time systems with field of view constraint", _13th Asian Control Conference_, pp. 2047 -- 2048, 2022.
@@ -52,7 +52,7 @@ layout: default
 * Institute of Electrical and Electronics Engineers (IEEE)
 
 
-趣味については，[こちら](./hobby-page.html)から
+趣味については，[趣味のページ](./hobby.html)をご覧ください（執筆途中）．
 
 <!-- ### **TA/RA等**
 #### 2019年度
