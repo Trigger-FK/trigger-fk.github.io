@@ -21,6 +21,9 @@ layout: default
 * [初学者が学んだDC最適化（概要）](https://qiita.com/Trigger-FK/items/84148dcf2c92e9647485)
 
 ## 学外活動
+### OUXT Polaris
+特にまだ何も活動してないので割愛します．
+
 ### RoboCup@Home (2022/10~)
 HibikinoMusashi@Homeという九州工業大学・北九州市立大学の合同チームにて，RoboCup@Homeに参加しています．\\
 主に「Carry My Luggage」という，人物追跡・物体認識・物体把持に関するタスクのメインプログラマを担当しています．
