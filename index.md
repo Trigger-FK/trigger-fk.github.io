@@ -2,19 +2,16 @@
 layout: default
 ---
 
-## **松崎 史弥 (Fumiya Matsuzaki)**
-機械いじりが好きで機械科に入ったら，いつの間にか制御理論の研究をしていた修士2年です．
+## **松崎 史弥（まつざき ふみや）**
+機械いじりが好きで機械科に入ったら，いつの間にか制御理論の研究をしていた博士前期（修士）課程2年生です．
 
-システム制御研究グループにて，合意ネットワークを対象としたマルチエージェントシステムの制御について研究しています．\\
-特に，ロボットやドローンなどの実機への適応を対象とした制御理論について取り組んでいます．
+システム制御研究グループ池田研究室にて，合意ネットワークを対象としたマルチエージェントシステムの制御について研究しています．\\
+主に，ロボットやドローンなどの実機への適応を対象とした制御理論について取り組んでいます．
 
-#### 研究の興味
-* ロボットやドローンの群制御
-* マルチエージェントシステムのフォーメーション制御
-* マルチエージェント経路計画問題
-* ネットワークトポロジー推定
+興味：\\
+群制御，フォーメーション制御，ネットワークトポロジー推定
 
-来年，学外の博士後期課程に進学予定です．
+来年，博士後期課程に進学予定です．
 
 <!-- [Link to another page](./another-page.html). -->
 
@@ -28,51 +25,54 @@ layout: default
 2017年3月　福岡県立宗像高等学校　卒業
 2014年4月　福岡県立宗像高等学校　入学   -->
 
+研究や学外活動の詳細については，[こちら](./detail-page.html)からどうぞ．
 
 ### **国際会議**（査読あり）
 * __Fumiya Matsuzaki__, and Takuya Ikeda, "Distributed formation control for discrete-time systems with field of view constraint", _13th Asian Control Conference_, pp. 2047 -- 2048, 2022.
 
+### **成果**
+#### 学内
+* 2018年度学科成績優秀者　<u><b>優秀賞</b></u>
+* 2019年度学科成績優秀者　<u><b>奨励賞</b></u>
+* 2020年度学科成績優秀者　<u><b>奨励賞</b></u>
 
-### **TA/RA等**
-#### <u>2019年度</u>
-* 環境問題事例研究（チューター）
-
-#### <u>2021年度</u>
-* 環境問題特別講義
-* 線形代数学
-* 環境機械創造演習
-
-#### <u>2022年度</u>
-* 情報処理学・同演習
-* 機械工学実験Ⅰ
-* 線形代数学
-* 環境機械創造演習
-
-#### <u>2023年度</u>
-* 情報処理学・同演習
-* 機械工学実験Ⅰ
-
-
-### **受賞**
-#### <u>学内</u>
-* 2018年度学科成績優秀者　**優秀賞**
-* 2019年度学科成績優秀者　**奨励賞**
-* 2020年度学科成績優秀者　**奨励賞**
-
-#### <u>課外活動</u>
-* RoboMaster 2021 Robotics Competition&Technical Challenge Online Assessment **Second Prize**
-* RoboMaster Universities from Hong Kong, Taiwan, Macau and Overseas 2021 **第2位**
-* 第31回マイクロマウス九州地区大会 ロボトレース競技 **準優勝**
-* ロボカップジャパンオープン2022 @ホームリーグ Open Platform League **準優勝**
-* ロボカップジャパンオープン2022 @ホームリーグ Open Platform League Technical Challenge **優勝**
-* ロボカップジャパンオープン2023 @ホームリーグ Open Platform League **準優勝**
-* ロボカップジャパンオープン2023 @ホームリーグ Open Platform League Technical Challenge **優勝**
+#### 課外活動
+* RoboMaster 2021 Robotics Competition&Technical Challenge Online Assessment <u><b>Second Prize</b></u>
+* RoboMaster Universities from Hong Kong, Taiwan, Macau and Overseas 2021 <u><b>第2位</b></u>
+* 第31回マイクロマウス九州地区大会 ロボトレース競技 <u><b>準優勝</b></u>
+* ロボカップジャパンオープン2022 @ホームリーグ Open Platform League <u><b>準優勝</b></u>
+* ロボカップジャパンオープン2022 @ホームリーグ Open Platform League Technical Challenge <u><b>優勝</b></u>
+* ロボカップジャパンオープン2023 @ホームリーグ Open Platform League <u><b>準優勝</b></u>
+* ロボカップジャパンオープン2023 @ホームリーグ Open Platform League Technical Challenge <u><b>優勝</b></u>
 
 
 ### **所属学会**
 * 計測自動制御学会 (SICE)
 * 日本機械学会 (JSME)
 * Institute of Electrical and Electronics Engineers (IEEE)
+
+
+趣味については，[こちら](./hobby-page.html)から
+
+<!-- ### **TA/RA等**
+#### 2019年度
+* 環境問題事例研究（チューター）
+
+#### 2021年度
+* 環境問題特別講義
+* 線形代数学
+* 環境機械創造演習
+
+#### 2022年度
+* 情報処理学・同演習
+* 機械工学実験Ⅰ
+* 線形代数学
+* 環境機械創造演習
+
+#### 2023年度
+* 情報処理学・同演習
+* 機械工学実験Ⅰ -->
+
 
 <!-- ## 研究
 システム制御研究グループにて，合意ネットワークを対象としたマルチエージェントシステムの制御について研究しています．
