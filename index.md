@@ -39,7 +39,7 @@ layout: default
 #### 課外活動
 * RoboMaster 2021 Robotics Competition&Technical Challenge Online Assessment <u><b>Second Prize</b></u>
 * RoboMaster Universities from Hong Kong, Taiwan, Macau and Overseas 2021 <u><b>第2位</b></u>
-* 第31回マイクロマウス九州地区大会 ロボトレース競技 <u><b>準優勝</b></u>
+<!-- * 第31回マイクロマウス九州地区大会 ロボトレース競技 <u><b>準優勝</b></u> -->
 * ロボカップジャパンオープン2022 @ホームリーグ Open Platform League <u><b>準優勝</b></u>
 * ロボカップジャパンオープン2022 @ホームリーグ Open Platform League Technical Challenge <u><b>優勝</b></u>
 * ロボカップジャパンオープン2023 @ホームリーグ Open Platform League <u><b>準優勝</b></u>
