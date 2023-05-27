@@ -32,9 +32,9 @@ layout: default
 
 ### **成果**
 #### 学内
-* 2018年度学科成績優秀者　<u><b>優秀賞</b></u>
-* 2019年度学科成績優秀者　<u><b>奨励賞</b></u>
-* 2020年度学科成績優秀者　<u><b>奨励賞</b></u>
+* 2019年度学科成績優秀者表彰　<u><b>優秀賞</b></u>
+* 2020年度学科成績優秀者表彰　<u><b>奨励賞</b></u>
+* 2021年度学科成績優秀者表彰　<u><b>奨励賞</b></u>
 
 #### 課外活動
 * RoboMaster 2021 Robotics Competition&Technical Challenge Online Assessment <u><b>Second Prize</b></u>
