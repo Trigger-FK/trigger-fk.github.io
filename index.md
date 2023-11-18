@@ -3,15 +3,13 @@ layout: default
 ---
 
 ## **松崎 史弥（まつざき ふみや）**
-機械いじりが好きで機械科に入ったら，いつの間にか数式いじって制御理論の研究をしている博士前期（修士）課程2年生です．
+機械いじりが好きで機械科に入ったら，いつの間にか制御理論の研究をしている修士2年生です．
 
 システム制御研究グループにて，合意ネットワーク系におけるマルチエージェントシステムの制御について研究しています．\\
-また，制御だけでなく，エージェントが成すネットワークの接続形態の推定手法についても研究しています．
+特に，ロボットやドローンなどの実機を対象とした，制御理論の応用について興味があります．
 
 興味：\\
 マルチエージェントシステム，群制御，フォーメーション制御
-
-来年，博士後期課程に進学予定です．
 
 
 ### **経歴**
@@ -19,13 +17,17 @@ layout: default
 2018.04 ~ 2022.03　北九州市立大学 国際環境工学部 機械システム工学科\\
 2014.04 ~ 2017.03　福岡県立宗像高等学校 普通科
 
-研究や学外活動の詳細については，[活動の詳細](./detail.html)からどうぞ．
+[研究や学外活動の詳細](./detail.html)
+[趣味まわり](./hobby.html)
 
-### **国際会議**（査読あり）
+### **成果**
+#### **国際会議**（査読あり）
 * __Fumiya Matsuzaki__, and Takuya Ikeda, "Distributed formation control for discrete-time systems with field of view constraint", _13th Asian Control Conference_, pp. 2047 -- 2048, 2022.
 * __Fumiya Matsuzaki__, Rio Yotsumoto, and Takuya Ikeda, "Sparse structure learning for consensus network systems via sum-of-absolute-values regularization", _SICE 2023_, pp. 478 -- 485, 2023.
 
-### **成果**
+#### **講演・口頭発表等**
+* __松崎史弥__, 岡本健太, 吉本幸太郎, 小林聖人, 片岡大哉, 永田暁久, 西田祐也, "Maritime RobotXへの挑戦を通じた技術活動", 日本ロボット学会学術講演会, 2023年
+
 #### 学内
 * 2019年度学科成績優秀者表彰　<u><b>優秀賞</b></u>
 * 2020年度学科成績優秀者表彰　<u><b>奨励賞</b></u>
@@ -45,9 +47,6 @@ layout: default
 * 計測自動制御学会 (SICE)
 * 日本機械学会 (JSME)
 * Institute of Electrical and Electronics Engineers (IEEE)
-
-
-趣味については，[趣味のページ](./hobby.html)をご覧ください（執筆途中）．
 
 ### **TA/RA等**
 #### 2019年度
@@ -69,3 +68,4 @@ layout: default
 * 情報処理学・同演習（1年前期）
 * 機械工学実験Ⅰ（3年前期）
 * AIミニロボット製作総合実習（カーロボAI連携大学院）
+* 環境機械創造演習（2年後期）
