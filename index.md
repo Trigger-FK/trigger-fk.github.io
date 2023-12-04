@@ -23,7 +23,7 @@ layout: default
 ### **成果**
 #### **国際会議**（査読あり）
 * __Fumiya Matsuzaki__, and Takuya Ikeda, "Distributed formation control for discrete-time systems with field of view constraint", _13th Asian Control Conference_, pp. 2047 -- 2048, 2022.
-* __Fumiya Matsuzaki__, Rio Yotsumoto, and Takuya Ikeda, "Sparse structure learning for consensus network systems via sum-of-absolute-values regularization", _SICE 2023_, pp. 478 -- 485, 2023.
+* __Fumiya Matsuzaki__, Rio Yotsumoto, and Takuya Ikeda, "Sparse structure learning for consensus network systems via sum-of-absolute-values regularization", _SICE 2023_, pp. 478 -- 483, 2023.
 
 #### **講演・口頭発表等**
 * __松崎史弥__, 岡本健太, 吉本幸太郎, 小林聖人, 片岡大哉, 永田暁久, 西田祐也, "Maritime RobotXへの挑戦を通じた技術活動", 日本ロボット学会学術講演会, 2023年
