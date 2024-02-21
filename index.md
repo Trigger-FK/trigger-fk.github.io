@@ -17,10 +17,17 @@ __The University of Kitakyushu__\\
 Master of Engineering\\
 Graduate School of Environmental Engineering
 
+<<<<<<< HEAD
 2018.04 - 2022.03\\
 __The University of Kitakyushu__\\
 Bachelor of Engineering\\
 Department of Mechanical Systems Engineering
+=======
+### **成果**
+#### **国際会議**（査読あり）
+* __Fumiya Matsuzaki__, and Takuya Ikeda, "Distributed formation control for discrete-time systems with field of view constraint", _13th Asian Control Conference_, pp. 2047 -- 2048, 2022.
+* __Fumiya Matsuzaki__, Rio Yotsumoto, and Takuya Ikeda, "Sparse structure learning for consensus network systems via sum-of-absolute-values regularization", _SICE 2023_, pp. 478 -- 483, 2023.
+>>>>>>> d67d4cfc8ea3946a72df663b96fdc31a7a86f332
 
 ## RESEARCH
 * Analysis for Consensus Network Systems
@@ -30,7 +37,7 @@ Department of Mechanical Systems Engineering
 ### International Conferences
 * __F.Matsuzaki__, R.Yotsumoto, and T.Ikeda,\\
   [Sparse structure learning for consensus network systems via sum-of-absolute-values regularization](https://ieeexplore.ieee.org/document/10354244){:target="_blank"},\\
-  _62nd Annual Conference of the Society of Instrument and Control Engineers (SICE)_, pp. 478 -- 485, 2023.
+  _62nd Annual Conference of the Society of Instrument and Control Engineers (SICE)_, pp. 478 -- 483, 2023.
 * __F.Matsuzaki__, and T.Ikeda,\\
   Distributed formation control for discrete-time systems with field of view constraint,\\
   _13th Asian Control Conference (ASCC)_, pp. 2047 -- 2048, 2022.
@@ -65,5 +72,13 @@ Department of Mechanical Systems Engineering
 ## ACTIVITIES
 See [here](./activities) about my activities.
 
+<<<<<<< HEAD
 ## TA/RA
 See [here](./assistant) about my TA/RA activities.
+=======
+#### 2023年度
+* 情報処理学・同演習（1年前期）
+* 機械工学実験Ⅰ（3年前期）
+* AIミニロボット製作総合実習（カーロボAI連携大学院）
+* 環境機械創造演習（2年後期）
+>>>>>>> d67d4cfc8ea3946a72df663b96fdc31a7a86f332
