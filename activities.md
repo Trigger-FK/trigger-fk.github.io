@@ -18,7 +18,7 @@ I have participated it as a developer of human tracking functionality.
 * RoboCup Japan Open 2023 @Home Open Platform League Open Challenge <u><b>1st Place</b></u>
 * RoboCup 2023 in Bordeaux @Home Domestic Standard Platform League <u><b>2nd Place</b></u>
 
-Website: [Hibikino-Musashi@Home (HMA)](https://www.brain.kyutech.ac.jp/~hma/ja/top/)
+Website: [Hibikino-Musashi@Home (HMA)](https://www.brain.kyutech.ac.jp/~hma/ja/top/){:target="_blank"}
 
 ### **FUKUOKA NIWAKA** (August 2020 - March 2023)
 FUKUOKA NIWAKA is a student team which participated in RoboMaster, a robotics competition organized by DJI.
