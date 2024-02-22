@@ -27,7 +27,7 @@ d2mba022[at]eng.kitakyu-u.ac.jp
 ### 国際会議（査読あり）
 * __F.Matsuzaki__, R.Yotsumoto, and T.Ikeda,\\
   [Sparse structure learning for consensus network systems via sum-of-absolute-values regularization](https://ieeexplore.ieee.org/document/10354244){:target="_blank"},\\
-  _62nd Annual Conference of the Society of Instrument and Control Engineers (SICE)_, pp. 478 -- 485, 2023.
+  _62nd Annual Conference of the Society of Instrument and Control Engineers (SICE)_, pp. 478 -- 483, 2023.
 * __F.Matsuzaki__, and T.Ikeda,\\
   Distributed formation control for discrete-time systems with field of view constraint,\\
   _13th Asian Control Conference (ASCC)_, pp. 2047 -- 2048, 2022.
