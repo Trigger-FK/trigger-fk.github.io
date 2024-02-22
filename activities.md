@@ -6,7 +6,7 @@ layout: default
 OUXT Polaris is student-led robotics team, which was formed for the Maritime RobotX Challenge.
 I have participated it as a developer of perseption system with VLM (Vision-Language Model) for aerial drone.
 
-Website: [OUXT Polaris](https://www.ouxt.jp/)
+Website: [OUXT Polaris](https://www.ouxt.jp/){:target="_blank"}
 
 ### **Hibikino-Musashi@Home** (October 2022 - March 2024)
 Hibikino-Musashi@Home is a student project team based in Kitakyushu Science and Research Park (with Kyushu Institute of Technology, The University of Kitakyushu, and Waseda University).
