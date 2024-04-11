@@ -20,7 +20,7 @@ Advisor: Kaoru Yamamoto
 April 2022 - March 2024\\
 __The University of Kitakyushu__\\
 Master of Engineering\\
-Graduate School of Environmental Engineering
+Graduate School of Environmental Engineering\\
 Advisor: Takuya Ikeda
 
 April 2018 - March 2022\\
