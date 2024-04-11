@@ -2,7 +2,7 @@
 layout: default
 ---
 Doctral Student at Kyushu University\\
-System Control & Optimization Lab.
+Control & Optimization Lab.
 
 #### CONTACT
 matsuzaki.fumiya.592[at]s.kyushu-u.ac.jp
