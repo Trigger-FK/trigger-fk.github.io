@@ -1,30 +1,36 @@
 ---
 layout: default
 ---
-Master student at The University of Kitakyushu\\
-Advisor: Takuya Ikeda
+Doctral Student at Kyushu University\\
+System Control & Optimization Lab.
 
 #### CONTACT
-d2mba022[at]eng.kitakyu-u.ac.jp
+matsuzaki.fumiya.592[at]s.kyushu-u.ac.jp
 
 [Japanese page](./index_JP)
 
 ---
 
 ## EDUCATION
-2022.04 - Present\\
+April 2024 - Present\\
+__Kyushu University__\\
+Joint Graduate School of Mathematics for Innovation\\
+Advisor: Kaoru Yamamoto
+
+April 2022 - March 2024\\
 __The University of Kitakyushu__\\
 Master of Engineering\\
 Graduate School of Environmental Engineering
+Advisor: Takuya Ikeda
 
-2018.04 - 2022.03\\
+April 2018 - March 2022\\
 __The University of Kitakyushu__\\
 Bachelor of Engineering\\
 Department of Mechanical Systems Engineering
 
 ## RESEARCH
-* Analysis for Consensus Network Systems
-* Formation Control for Multi-Agent Systems
+* Control and Analysis for Multi-Agent Systems
+* Sparse Optimization for Control Systems
 
 ## PUBLICATIONS AND PRESENTATIONS
 ### International Conferences
@@ -41,19 +47,18 @@ Department of Mechanical Systems Engineering
   _The 41st Annual Conference of the Robotics Society of Japan (RSJ)_, 2023.
 
 ## AWARDS
-* Academic Excellence Award, 2021\\
-  __Encouragement Award__\\
+* __Miura Award__, 2024\\
+  The Japan Society of Mechanical Engineers
+* __Encouragement Award__, 2021\\
   Department of Mechanical System Engineering, The University of Kitakyushu
-* Academic Excellence Award, 2020\\
-  __Encouragement Award__\\
+* __Encouragement Award__, 2020\\
   Department of Mechanical System Engineering, The University of Kitakyushu
-* Academic Excellence Award, 2019\\
-  __Outstanding Achievement Award__\\
+* __Outstanding Achievement Award__, 2019\\
   Department of Mechanical System Engineering, The University of Kitakyushu
 
 ## SCHOLARSHIPS
-* __JEES・Softbank AI Scholarship__\\
-    April 2022 - March 2023, Japan Educational Exchanges and Services (JEES)
+* __JEES Softbank AI Scholarship__\\
+  April 2022 - March 2023, Japan Educational Exchanges and Services (JEES)
 * __Chiyoda Fundation Scholarship__\\
   April 2019 - March 2022, Chiyoda Foundation
 

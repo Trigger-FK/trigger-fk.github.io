@@ -10,7 +10,7 @@ Website: [OUXT Polaris](https://www.ouxt.jp/){:target="_blank"}
 
 ### **Hibikino-Musashi@Home** (October 2022 - March 2024)
 Hibikino-Musashi@Home is a student project team based in Kitakyushu Science and Research Park (with Kyushu Institute of Technology, The University of Kitakyushu, and Waseda University).
-I have participated it as a developer of human tracking functionality.
+I participated it as a developer of human tracking functionality.
 
 * RoboCup Japan Open 2022 @Home Open Platform League <u><b>2nd Place</b></u>
 * RoboCup Japan Open 2022 @Home Open Platform League Technical Challenge <u><b>1st Place</b></u>
