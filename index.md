@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Doctral Student at Kyushu University\\
+Doctoral Student at Kyushu University\\
 Control & Optimization Lab.
 
 #### CONTACT
