@@ -8,7 +8,7 @@ title: Publications
 ## Jounal Article
 * F. Matsuzaki and T. Ikeda,  
 [Sparse topology estimation for consensus network systems via minimax concave penalty](https://ieeexplore.ieee.org/document/10542337){:target="_blank"},  
-_IEEE Control Systems Letters (L-CSS)_, 2024, _in press_.  
+_IEEE Control Systems Letters (L-CSS)_, vol. 8, pp. 1012--1017, 2024.
 
 ## International Conference
 * F. Matsuzaki, R. Yotsumoto, and T. Ikeda,  
