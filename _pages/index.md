@@ -19,7 +19,7 @@ title: Home
 * Contact: matsuzaki.fumiya.592[at]s.kyushu-u.ac.jp
 
 ## Education
-* 2024.04 - 現在  
+* 2024.04 - Present  
 九州大学 大学院マス・フォア・イノベーション連係学府 博士後期課程  
     * [大学院システム情報科学研究院 電気システム工学部門 システム制御・最適化研究室](https://sites.google.com/view/kyamamotolab){:target="_blank"}  
 <br/>
