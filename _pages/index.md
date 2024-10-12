@@ -6,14 +6,14 @@ title: Home
 ---
 
 ## Profile
-* 九州大学 大学院マス・フォア・イノベーション連係学府 博士後期課程1年  
+* 九州大学 大学院マス・フォア・イノベーション連係学府 博士後期課程  
     * 研究室：[大学院システム情報科学研究院 電気システム工学部門 システム制御・最適化研究室](https://sites.google.com/view/kyamamotolab){:target="_blank"}  
     * 研究分野：制御理論  
 <br/>
 * 所属学会
+    * 日本ロボット学会
     * システム制御情報学会
     * 計測自動制御学会
-    * 日本機械学会
     * IEEE  
 <br/>
 * Contact: matsuzaki.fumiya.592[at]s.kyushu-u.ac.jp
