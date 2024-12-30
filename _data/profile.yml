@@ -2,6 +2,14 @@
   href: https://github.com/trigger-fk
   icon: entypo/github.svg
 
-- caption: X (Twitter)
-  href: https://x.com/santana_hammer
-  icon: icons/x-twitter.svg
+# - caption: X (Twitter)
+#   href: https://x.com/santana_hammer
+#   icon: icons/x-twitter.svg
+
+- caption: LinkedIn
+  href: https://www.linkedin.com/in/fumiya-matsuzaki-109797316/
+  icon: entypo/linkedin.svg
+
+- caption: Google Scholar
+  href: https://scholar.google.com/citations?user=E7f8GNgAAAAJ&hl=en
+  icon: entypo/graduation-cap.svg
