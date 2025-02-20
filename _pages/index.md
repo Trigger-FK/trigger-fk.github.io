@@ -17,7 +17,7 @@ My research interests include control theory, especially, the control of network
 Joint Graduate School of Mathematics for Innovation, Kyushu University  
 * [Control & Optimization Lab. (ISEE)](https://sites.google.com/view/kyamamotolab/home-english){:target="_blank"}  
 * Supervisor: Prof. Kaoru Yamamoto
-* Research topic: Sampled-data systems control for networked systems
+* Research topic: Sampled-data systems control for real agent (robots, drones, etc.)
 <br/>
 <br/>  
 
