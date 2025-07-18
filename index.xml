@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Fumiya Matsuzaki</title><link>https://trigger-fk.github.io/</link><description>Recent content on Fumiya Matsuzaki</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://trigger-fk.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://trigger-fk.github.io/about/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://trigger-fk.github.io/about/</guid><description>I am a Ph.D. student at Kyushu University, Joint Graduate School of Mathematics for Innovation. Currently, I work at the Control &amp;amp; Optimization Laboratory, advised by Associate Professor Kaoru Yamamoto.
+My research interests lie in control theory, especially in applying control-theoretic methods to real-world systems such as robots and quadcopters. In particular, I aim to evaluate to what extent control performance can be improved by applying theoretical methods in practical environments, and to explore how control performance can be further enhanced under real-world conditions.</description></item><item><title>Activities</title><link>https://trigger-fk.github.io/activities/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://trigger-fk.github.io/activities/</guid><description>OUXT Polaris (2023.04 - Present) Software Developer: Perception Quadrotor Developer PR Manager Award RoboBoat 2025 Special Award (Persistence Exemplified) Domestic Conference 大西 凌平, 二見 堅太, 藤岡 怜生, 松崎 史弥, 西田 祐也,
+RoboBoat2025 のための自律航行型無人船の開発,
+ロボティクス・メカトロニクス講演会, 山形, 6月6日, 2025. 松崎 史弥, 岡本 健太, 吉本 幸太郎, 小林 聖人, 片岡 大哉, 永田 暁久, 西田 祐也,
+Maritime RobotXへの挑戦を通じた技術活動,
+第41回日本ロボット学会学術講演会, 宮城, 9月11日, 2023. Tech Conference: 藤岡 怜生, 二見 堅太, 糸園 朔, 松崎 史弥, 片岡 大哉, 小林 聖人,</description></item><item><title>Publications</title><link>https://trigger-fk.github.io/publications/</link><pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate><guid>https://trigger-fk.github.io/publications/</guid><description>Jounal Article N. Gerdpratoom, F. Matsuzaki, Y. Yamamoto, and K. Yamamoto,
+Enhanced Sampled-Data Model Predictive Control via Nonlinear Lifting,
+Internatinal Journal of Robust and Nonlinear Control, Early View, 2025.
+F. Matsuzaki and T. Ikeda,
+Sparse Topology Estimation for Consensus Network Systems via Minimax Concave Penalty,
+IEEE Control Systems Letters, vol. 8, pp. 1012&amp;ndash;1017, 2024.
+International Conference F. Matsuzaki and T. Ikeda,
+Sparse topology estimation for consensus network systems via minimax concave penalty,</description></item></channel></rss>
