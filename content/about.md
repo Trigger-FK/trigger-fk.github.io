@@ -7,7 +7,7 @@ author = "Fumiya Matsuzaki"
 +++
 
 I am a Ph.D. student at Kyushu University, Joint Graduate School of Mathematics for Innovation.
-Currently, I work at the Control & Optimization Laboratory, advised by Associate Professor Kaoru Yamamoto.
+Currently, I work at the Control & Optimization Laboratory, advised by Prof. Kaoru Yamamoto.
 
 My research interests lie in control theory, especially in applying control-theoretic methods to real-world systems such as robots and quadcopters. In particular, I aim to evaluate to what extent control performance can be improved by applying theoretical methods in practical environments, and to explore how control performance can be further enhanced under real-world conditions.
 

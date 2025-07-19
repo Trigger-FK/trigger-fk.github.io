@@ -8,7 +8,7 @@ author = "Fumiya Matsuzaki"
 # Jounal Article
 * N. Gerdpratoom, F. Matsuzaki, Y. Yamamoto, and K. Yamamoto,   
 **[Enhanced Sampled-Data Model Predictive Control via Nonlinear Lifting](https://onlinelibrary.wiley.com/doi/10.1002/rnc.70083?af=R)**,  
-_Internatinal Journal of Robust and Nonlinear Control_, Early View, 2025.
+_International Journal of Robust and Nonlinear Control_, Early View, 2025.
 
 * F. Matsuzaki and T. Ikeda,  
 **[Sparse Topology Estimation for Consensus Network Systems via Minimax Concave Penalty](https://ieeexplore.ieee.org/document/10542337)**,  
