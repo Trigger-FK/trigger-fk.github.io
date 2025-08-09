@@ -15,28 +15,29 @@ author = "Fumiya Matsuzaki"
 * RoboBoat 2025 **Special Award (Persistence Exemplified)**
 
 ## Domestic Conference
-* 大西 凌平, 二見 堅太, 藤岡 怜生, 松崎 史弥, 西田 祐也,  
+* 大西 凌平, 二見 堅太, 藤岡 怜生, <u>松崎 史弥</u>, 西田 祐也,  
 **RoboBoat2025 のための自律航行型無人船の開発**,  
 ロボティクス・メカトロニクス講演会, 山形, 6月6日, 2025.
-* 松崎 史弥, 岡本 健太, 吉本 幸太郎, 小林 聖人, 片岡 大哉, 永田 暁久, 西田 祐也,  
+
+* <u>松崎 史弥</u>, 岡本 健太, 吉本 幸太郎, 小林 聖人, 片岡 大哉, 永田 暁久, 西田 祐也,  
 **Maritime RobotXへの挑戦を通じた技術活動**,  
-第41回日本ロボット学会学術講演会, 宮城, 9月11日, 2023. 
+第41回日本ロボット学会学術講演会, 宮城, 9月11日, 2023.
 
 ## Tech Conference:
-* 藤岡 怜生, 二見 堅太, 糸園 朔, 松崎 史弥, 片岡 大哉, 小林 聖人,  
+* 藤岡 怜生, 二見 堅太, 糸園 朔, <u>松崎 史弥</u>, 片岡 大哉, 小林 聖人,  
 **Martime RobotX Challenge2024に向けた自律航行ハードウェアとROS 2とのインテグレーション**,  
 ROSCon JP, 2024. 
 [[Slide](https://roscon.jp/2024/presentations/06.pdf)]
 [[Video](https://vimeo.com/showcase/11452054/video/1029114561)]
 
-* 長尾 悠世, 岡本 健太, 小林 聖人, 吉本 幸太郎, 永田 暁久, 溝口 裕介, 黒田 和輝, 荒井 杏真, 松崎 史弥, 糸園 朔, 湯浅 拓海, 真田 辰哉, 松本 拓実, 坂本 航, 坂本 琢磨, 小林 聡太, 西野 光, 宮川 大樹, 田中 俊哉, 小田 拓海, 西村 樹希, 吉田 圭佑, 金城 たくと,  
+* 長尾 悠世, 岡本 健太, 小林 聖人, 吉本 幸太郎, 永田 暁久, 溝口 裕介, 黒田 和輝, 荒井 杏真, <u>松崎 史弥</u>, 糸園 朔, 湯浅 拓海, 真田 辰哉, 松本 拓実, 坂本 航, 坂本 琢磨, 小林 聡太, 西野 光, 宮川 大樹, 田中 俊哉, 小田 拓海, 西村 樹希, 吉田 圭佑, 金城 たくと,  
 **水上AIロボットにおける三次元環境認識**,  
 ROSCon JP, 2023. 
 [[Slide](https://roscon.jp/2023/presentations/026.pdf)]
 [[Video](https://vimeo.com/883809035)]
 
 # Tech Event Presentation:
-* 松崎 史弥,  
+* <u>松崎 史弥</u>,  
 **RoboBoatに向けた小型自律航行船の開発**,  
 ROS Japan UG #58 九州ROSJP, 2025.
 [[Slide](https://docs.google.com/presentation/d/1RmWp0zIBPuuZPmyUTQRwLDea-TbuT-oh9PCh-SNSjzA/edit?usp=sharing)]  
