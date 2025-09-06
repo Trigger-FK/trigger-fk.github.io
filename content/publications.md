@@ -32,6 +32,11 @@ _13th Asian Control Conference_, Jeju, Korea, May 6, 2022.
 **[Enhanced sampled-data model predictive control via nonlinear lifting](https://arxiv.org/abs/2501.05815)**,  
 _arXiv:2501.05815_, 2025.
 
+# Domestic Conference
+* <u>松崎史弥</u>, 坂口聡範, 山本薫,  
+**リフティングによる非線形サンプル値モデル予測制御とクアッドロータの軌道追従**,  
+第43回日本ロボット学会学術講演会 (_RSJ2025_), 東京, September 5, 2025.
+
 # Award
 * IEEE Best Student Award of Fukuoka Section (2025.02)
 * Exemption from Repayment of JASSO Type 1 Scholarship Loan due to Outstanding Academic Achievements (Half Exemption), Japan Student Services Organization (2024.07)

@@ -10420,7 +10420,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "游ゴシック", "PingFang SC", STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
   font-size: 1.8em;
   font-weight: 400;
-  line-height: 1.8em; }
+  line-height: 1.6em; }
   @media only screen and (max-width: 768px) {
     body {
       font-size: 1.6em;
@@ -10485,7 +10485,7 @@ h1 {
   @media only screen and (max-width: 768px) {
     h1 {
       font-size: 3rem;
-      line-height: 3.4rem; } }
+      line-height: 1.2rem; } }
 h2 {
   font-size: 2.8rem;
   line-height: 3.2rem; }
@@ -10640,6 +10640,23 @@ figure {
 .fas {
   font-weight: 900; }
 
+.content article ul li p {
+  margin-bottom: 0em; }
+
+.content article h1 {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important; }
+  @media only screen and (max-width: 768px) {
+    .content article h1 {
+      margin-top: 1.5rem !important;
+      margin-bottom: 1rem !important; } }
+.content article h2 {
+  margin-top: 1rem !important;
+  margin-bottom: 1rem !important; }
+  @media only screen and (max-width: 768px) {
+    .content article h2 {
+      margin-top: 1.5rem !important;
+      margin-bottom: 1rem !important; } }
 .content {
   flex: 1;
   display: flex;
@@ -10654,12 +10671,12 @@ figure {
     margin-bottom: 3.2rem; }
     .content header h1 {
       font-size: 4.2rem;
-      line-height: 4.6rem;
+      line-height: 1.2rem;
       margin: 0; }
       @media only screen and (max-width: 768px) {
         .content header h1 {
           font-size: 4rem;
-          line-height: 4.4rem; } }
+          line-height: 1.2rem; } }
   .content article a:where(.external-link):not(:has(img)):after {
     content: "\f08e";
     padding-left: 0.5em;
@@ -10785,7 +10802,7 @@ figure {
   .centered .error {
     text-align: center; }
     .centered .error h1 {
-      margin-top: 2rem;
+      margin-top: 1rem;
       margin-bottom: 0.5rem;
       font-size: 4.6rem; }
       @media only screen and (max-width: 768px) {
