@@ -1,0 +1,64 @@
+/* ====== Font stack (OS内蔵のみ・英日自動切替) ====== */
+html, body, .post, p, li, h1, h2, h3, h4, h5, h6 {
+  font-family:
+    system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    "Hiragino Sans", "Hiragino Kaku Gothic ProN",
+    "Yu Gothic Medium", "Yu Gothic",
+    "Meiryo",
+    sans-serif;
+}
+
+/* 等幅（コード） */
+code, pre, kbd, samp {
+  font-family:
+    "SFMono-Regular", Menlo, Consolas, "Liberation Mono",
+    "Noto Sans Mono CJK JP",
+    monospace;
+}
+
+/* ====== 固定ヘッダー（常に表示） ====== */
+.navigation, .navbar, header.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 9999;
+  background: #fff;
+  backdrop-filter: saturate(180%) blur(6px);
+  box-shadow: 0 1px 0 rgba(0,0,0,.06);
+}
+
+/* Headroom 等で隠すクラスが付いても無効化 */
+.headroom, .headroom--top, .headroom--not-top,
+.headroom--unpinned, .headroom--pinned {
+  transform: none !important;
+  transition: none !important;
+}
+
+/* 固定ヘッダー分の余白（アンカーずれ対策） */
+:root { --nav-height: 64px; }
+body { scroll-padding-top: var(--nav-height); }
+h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], *:target {
+  scroll-margin-top: var(--nav-height);
+}
+
+/* ====== ブログ一覧のサムネ & 説明 ====== */
+.blog-thumbnail {
+  margin: 0.5rem 0;
+}
+.blog-thumbnail img {
+  width: 100px;
+  height: 75px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+.blog-description {
+  margin: 0.5rem 0 0 0;
+  font-size: 1.1rem;  /* 1.4rem → 1.1rem に調整（可読性） */
+  opacity: 0.85;
+}
+
+/* ダーク系テーマの背景補正（必要なら） */
+@media (prefers-color-scheme: dark) {
+  .navigation, .navbar, header.site-header { background: rgba(20,20,20,0.9); }
+  .blogpreview-card { background: #111; border-color: #333; }
+}

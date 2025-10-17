@@ -21,7 +21,7 @@ _63rd IEEE Conference on Decision and Control_, Milano, Italy, December 18, 2024
 
 * <u>F. Matsuzaki</u>, R. Yotsumoto, and T. Ikeda,  
 **[Sparse structure learning for consensus network systems via sum-of-absolute-values regularization](https://ieeexplore.ieee.org/document/10354244)**,  
-_62nd SICE Annual Conference_, Mie, Japan, September 8, 2023.
+_62nd Annual Conference of the Society of Instrument and Control Engineers_, Mie, Japan, September 8, 2023.
 
 * <u>F. Matsuzaki</u> and T. Ikeda,  
 **Distributed formation control for discrete-time systems with field of view constraint**,  
@@ -43,4 +43,4 @@ _arXiv:2501.05815_, 2025.
 * Miura Award, The Japan Society of Mechanical Engineers (2024.03)  
 * Encouragement Award, University of Kitakyushu (2021.07)  
 * Encouragement Award, University of Kitakyushu (2020.07)  
-* Outstanding Achievement Award, University of Kitakyushu (2021.07)  
+* Outstanding Achievement Award, University of Kitakyushu (2019.07)  

@@ -31,6 +31,8 @@ avatarURL = "images/avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 
+customCSS = ["css/custom.css"]
+
 since = 2023
 
 enableTwemoji = true
@@ -85,7 +87,12 @@ hidecolorschemetoggle = true
         name = "Activities"
         weight = 3
         url = "activities/"
+    [[languages.en.menu.main]]
+        name = "Blog"
+        weight = 4
+        url = "blog/"
 
 [caches]
     [caches.images]
         dir = ':cacheDir/images'
+

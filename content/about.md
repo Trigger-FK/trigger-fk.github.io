@@ -32,9 +32,13 @@ Faculty of Environmental Engineering, The University of Kitakyushu
     * Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
     * Thesis: _Distributed Formation Control for Discrete-time Systems with Field-of-View Constraint_
 
-# Outreach Activities
-* 2025.04 - Present  
-**Student Representative**,  Technical Committee on Robot Control (IEEE Robotics and Automation Society)
+# Service / Professional Activities
+## Committees & Leadership
+* 2025.04 – Present  
+**Student Representative**, [IEEE RAS Technical Committee on Robot Control](https://ieee-ras-robot-control.github.io/)
+
+## Reviewing
+* Reviewer, SICE Festival with Annual Conference
 
 # Societies
 * The Society of Instrument and Control Engineers (SICE)
