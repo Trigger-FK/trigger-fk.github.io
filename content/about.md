@@ -48,11 +48,10 @@ Faculty of Environmental Engineering, The University of Kitakyushu
     * IEEE Control Systems Society (CSS)
     * IEEE Robotics and Automation Society (RAS)
 
-# Research Topic
-## Sampled-data Systems Control for Real-world Agent
-In general, robots and drones acquire state variables such as position, velocity, and acceleration using sensors like cameras, laser rangefinders (LRFs), and accelerometers. Control inputs are then computed by an onboard digital computer. Therefore, the actual system is a mix of continuous-time and discrete-time systems—in other words, it belongs to the class of sampled-data control systems.  
-In this study, we investigate a control method capable of achieving stable control even in systems with slow sampling periods or in situations where information between sample points is lost, by applying a sampled-data control technique called “_lifting_” to real-world hardware.
-
-## Topology Identification for Networked Control Systems (Past)  
-Cooperative control of robots, attitude synchronization of satellites, and vehicle rendezvous are all related to various challenges in networked control systems, and the control performance of such systems is greatly influenced by the “network topology” that represents the connectivity structure. Therefore, understanding the topology is critically important in order to maintain performance metrics such as task completion speed and connectivity.  
-In this study, we propose and evaluate a framework for accurately estimating the network topology based on the state values of nodes obtained from consensus network systems.
+# Award
+* IEEE Best Student Award of Fukuoka Section (2025.02)
+* Exemption from Repayment of JASSO Type 1 Scholarship Loan due to Outstanding Academic Achievements (Half Exemption), Japan Student Services Organization (2024.07)
+* Miura Award, The Japan Society of Mechanical Engineers (2024.03)  
+* Encouragement Award, University of Kitakyushu (2021.07)  
+* Encouragement Award, University of Kitakyushu (2020.07)  
+* Outstanding Achievement Award, University of Kitakyushu (2019.07) 

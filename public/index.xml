@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fumiya Matsuzaki</title>
-    <link>http://localhost:42362/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Fumiya Matsuzaki</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:42362/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://localhost:42362/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42362/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I am a Ph.D. student at Kyushu University, Joint Graduate School of Mathematics for Innovation.&#xA;Currently, I work at the Control &amp;amp; Optimization Laboratory, advised by Prof. Kaoru Yamamoto.&lt;/p&gt;&#xA;&lt;!-- My research interests lie in control theory, especially in applying control-theoretic methods to real-world systems such as robots and quadcopters. In particular, I aim to evaluate to what extent control performance can be improved by applying theoretical methods in practical environments, and to explore how control performance can be further enhanced under real-world conditions. --&gt;&#xA;&lt;h1 id=&#34;education&#34;&gt;&#xA;  Education&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#education&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2024.04 - Present&lt;br&gt;&#xA;&lt;strong&gt;Ph.D. Student&lt;/strong&gt;&lt;br&gt;&#xA;Joint Graduate School of Mathematics for Innovation, Kyushu University&lt;/p&gt;</description>
     </item>
     <item>
       <title>Activities</title>
-      <link>http://localhost:42362/activities/</link>
+      <link>http://localhost:1313/activities/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42362/activities/</guid>
+      <guid>http://localhost:1313/activities/</guid>
       <description>&lt;h1 id=&#34;ouxt-polaris-202304---present&#34;&gt;&#xA;  OUXT Polaris (2023.04 - Present)&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#ouxt-polaris-202304---present&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Software Developer: Perception&lt;/li&gt;&#xA;&lt;li&gt;Quadrotor Developer&lt;/li&gt;&#xA;&lt;li&gt;PR Manager&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;award&#34;&gt;&#xA;  Award&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#award&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;RoboBoat 2025 &lt;strong&gt;Special Award (Persistence Exemplified)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;domestic-conference&#34;&gt;&#xA;  Domestic Conference&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#domestic-conference&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;大西 凌平, 二見 堅太, 藤岡 怜生, &lt;u&gt;松崎 史弥&lt;/u&gt;, 西田 祐也,&lt;br&gt;&#xA;&lt;strong&gt;RoboBoat2025 のための自律航行型無人船の開発&lt;/strong&gt;,&lt;br&gt;&#xA;ロボティクス・メカトロニクス講演会, 山形, 6月6日, 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;u&gt;松崎 史弥&lt;/u&gt;, 岡本 健太, 吉本 幸太郎, 小林 聖人, 片岡 大哉, 永田 暁久, 西田 祐也,&lt;br&gt;&#xA;&lt;strong&gt;Maritime RobotXへの挑戦を通じた技術活動&lt;/strong&gt;,&lt;br&gt;&#xA;第41回日本ロボット学会学術講演会, 宮城, 9月11日, 2023.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Publications</title>
-      <link>http://localhost:42362/publications/</link>
+      <link>http://localhost:1313/publications/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:42362/publications/</guid>
+      <guid>http://localhost:1313/publications/</guid>
       <description>&lt;h1 id=&#34;jounal-article&#34;&gt;&#xA;  Jounal Article&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#jounal-article&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;N. Gerdpratoom, &lt;u&gt;F. Matsuzaki&lt;/u&gt;, Y. Yamamoto, and K. Yamamoto,&lt;br&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/10.1002/rnc.70083?af=R&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Enhanced Sampled-Data Model Predictive Control via Nonlinear Lifting&lt;/a&gt;&lt;/strong&gt;,&lt;br&gt;&#xA;&lt;em&gt;International Journal of Robust and Nonlinear Control&lt;/em&gt;, Early View, 2025.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;u&gt;F. Matsuzaki&lt;/u&gt; and T. Ikeda,&lt;br&gt;&#xA;&lt;strong&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10542337&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sparse Topology Estimation for Consensus Network Systems via Minimax Concave Penalty&lt;/a&gt;&lt;/strong&gt;,&lt;br&gt;&#xA;&lt;em&gt;IEEE Control Systems Letters&lt;/em&gt;, vol. 8, pp. 1012&amp;ndash;1017, 2024.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;international-conference&#34;&gt;&#xA;  International Conference&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#international-conference&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;u&gt;F. Matsuzaki&lt;/u&gt; and T. Ikeda,&lt;br&gt;&#xA;&lt;strong&gt;Sparse topology estimation for consensus network systems via minimax concave penalty&lt;/strong&gt;,&lt;br&gt;&#xA;&lt;em&gt;63rd IEEE Conference on Decision and Control&lt;/em&gt;, Milano, Italy, December 18, 2024 (with L-CSS option).&lt;/p&gt;</description>
     </item>
   </channel>

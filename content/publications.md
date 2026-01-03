@@ -33,14 +33,11 @@ _13th Asian Control Conference_, Jeju, Korea, May 6, 2022.
 _arXiv:2501.05815_, 2025.
 
 # Domestic Conference
-* <u>松崎史弥</u>, 坂口聡範, 山本薫,  
+* <u>松崎 史弥</u>, 坂口 聡範, 山本 薫,  
 **リフティングによる非線形サンプル値モデル予測制御とクアッドロータの軌道追従**,  
 第43回日本ロボット学会学術講演会 (_RSJ2025_), 東京, September 5, 2025.
 
-# Award
-* IEEE Best Student Award of Fukuoka Section (2025.02)
-* Exemption from Repayment of JASSO Type 1 Scholarship Loan due to Outstanding Academic Achievements (Half Exemption), Japan Student Services Organization (2024.07)
-* Miura Award, The Japan Society of Mechanical Engineers (2024.03)  
-* Encouragement Award, University of Kitakyushu (2021.07)  
-* Encouragement Award, University of Kitakyushu (2020.07)  
-* Outstanding Achievement Award, University of Kitakyushu (2019.07)  
+# Others
+* <u>松崎 史弥</u>,  
+**線形リフティングと非線形システムへの導入**,  
+制御理論若手合宿2024, 愛知, September 11, 2025.

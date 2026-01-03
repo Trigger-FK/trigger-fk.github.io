@@ -1,0 +1,48 @@
+{{ define "title" }}
+  {{ .Title }} · {{ .Site.Title }}
+{{ end }}
+
+{{ define "content" }}
+  <section class="container list blog-list">
+    <header>
+      <h1 class="title">
+        <a class="title-link" href="{{ .Permalink | safeURL }}">
+          {{ .Title }}
+        </a>
+      </h1>
+    </header>
+
+    <div class="content">
+      {{ .Content }}
+    </div>
+
+    <div class="blog-card-grid">
+      {{ range .Paginator.Pages }}
+        {{ $page := . }}
+        <article class="blog-card">
+          {{ with $page.Params.thumbnail }}
+            <a class="blog-thumbnail" href="{{ $page.RelPermalink | safeURL }}">
+              <img src="{{ . | relURL }}" alt="{{ $page.Title }}">
+            </a>
+          {{ end }}
+
+          <p class="date">{{ $page.Date | time.Format ($page.Site.Params.dateFormat | default "January 2, 2006") }}</p>
+
+          <h2 class="blog-card-title">
+            <a href="{{ $page.RelPermalink | safeURL }}">{{ $page.Title }}</a>
+          </h2>
+
+          {{ $desc := $page.Params.description }}
+          {{ $fallback := $page.Summary | plainify }}
+          {{ with (default $fallback $desc) }}
+            <p class="blog-description">{{ . | truncate 180 }}</p>
+          {{ end }}
+
+          <a class="blog-readmore" href="{{ $page.RelPermalink | safeURL }}">Read more →</a>
+        </article>
+      {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }}
+  </section>
+{{ end }}
