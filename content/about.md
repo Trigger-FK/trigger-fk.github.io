@@ -37,8 +37,10 @@ Faculty of Environmental Engineering, The University of Kitakyushu
 * 2025.04 – Present  
 **Student Representative**, [IEEE RAS Technical Committee on Robot Control](https://ieee-ras-robot-control.github.io/)
 
-## Reviewing
-* Reviewer, SICE Festival with Annual Conference
+## Organizer
+* Co-Organizer, [Open Challenges and Emerging Opportunities
+in Robot Control](https://ieee-ras-robot-control.github.io/oceo_rc_ecc26/),  
+European Control Conference 2026, Reykjavík, Iceland, July 7th, 2026.
 
 # Societies
 * The Society of Instrument and Control Engineers (SICE)
@@ -47,6 +49,7 @@ Faculty of Environmental Engineering, The University of Kitakyushu
 * The Institute of Electrical and Electronics Engineers, Inc. (IEEE)
     * IEEE Control Systems Society (CSS)
     * IEEE Robotics and Automation Society (RAS)
+    * IEEE Industrial Electronics Society (IES)
 
 # Award
 * IEEE Best Student Award of Fukuoka Section (2025.02)

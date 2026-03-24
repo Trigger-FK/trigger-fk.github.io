@@ -8,7 +8,7 @@ author = "Fumiya Matsuzaki"
 # Jounal Article
 * N. Gerdpratoom, <u>F. Matsuzaki</u>, Y. Yamamoto, and K. Yamamoto,   
 **[Enhanced Sampled-Data Model Predictive Control via Nonlinear Lifting](https://onlinelibrary.wiley.com/doi/10.1002/rnc.70083?af=R)**,  
-_International Journal of Robust and Nonlinear Control_, Early View, 2025.
+_International Journal of Robust and Nonlinear Control_, vol. 35, no. 18, pp. 7621--7632, 2025.
 
 * <u>F. Matsuzaki</u> and T. Ikeda,  
 **[Sparse Topology Estimation for Consensus Network Systems via Minimax Concave Penalty](https://ieeexplore.ieee.org/document/10542337)**,  
@@ -27,15 +27,15 @@ _62nd Annual Conference of the Society of Instrument and Control Engineers_, Mie
 **Distributed formation control for discrete-time systems with field of view constraint**,  
 _13th Asian Control Conference_, Jeju, Korea, May 6, 2022.
 
-# Preprint
+<!-- # Preprint
 * N. Gerdpratoom, <u>F. Matsuzaki</u>, Y. Yamamoto, and K. Yamamoto,   
 **[Enhanced sampled-data model predictive control via nonlinear lifting](https://arxiv.org/abs/2501.05815)**,  
-_arXiv:2501.05815_, 2025.
+_arXiv:2501.05815_, 2025. -->
 
 # Domestic Conference
 * <u>松崎 史弥</u>, 坂口 聡範, 山本 薫,  
 **リフティングによる非線形サンプル値モデル予測制御とクアッドロータの軌道追従**,  
-第43回日本ロボット学会学術講演会 (_RSJ2025_), 東京, September 5, 2025.
+第43回日本ロボット学会学術講演会, 東京, September 5, 2025.
 
 # Others
 * <u>松崎 史弥</u>,  
