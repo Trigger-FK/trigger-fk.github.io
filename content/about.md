@@ -21,14 +21,14 @@ Joint Graduate School of Mathematics for Innovation, Kyushu University
 * 2022.04 - 2024.03  
 **Master of Engineering**  
 Graduate School of Environmental Engineering, The University of Kitakyushu  
-    * System Control Research Group, Ikeda Lab.  
+    * System Ikeda Lab., Control Research Group 
     * Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
     * Thesis: _Topology Identification for Consensus Network Systems via Sparse Structure Learning_
 
 * 2018.04 - 2022.03  
 **Bachelor of Engineering**  
-Faculty of Environmental Engineering, The University of Kitakyushu  
-    * System Control Research Group, Ikeda Lab. 
+Department of Mechanical Systems Engineering, The University of Kitakyushu  
+    * System Ikeda Lab., Control Research Group 
     * Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
     * Thesis: _Distributed Formation Control for Discrete-time Systems with Field-of-View Constraint_
 
@@ -55,6 +55,6 @@ European Control Conference 2026, Reykjavík, Iceland, July 7th, 2026.
 * IEEE Best Student Award of Fukuoka Section (2025.02)
 * Exemption from Repayment of JASSO Type 1 Scholarship Loan due to Outstanding Academic Achievements (Half Exemption), Japan Student Services Organization (2024.07)
 * Miura Award, The Japan Society of Mechanical Engineers (2024.03)  
-* Encouragement Award, University of Kitakyushu (2021.07)  
-* Encouragement Award, University of Kitakyushu (2020.07)  
-* Outstanding Achievement Award, University of Kitakyushu (2019.07) 
+* Encouragement Award, The University of Kitakyushu (2021.07)  
+* Encouragement Award, The University of Kitakyushu (2020.07)  
+* Outstanding Achievement Award, The University of Kitakyushu (2019.07) 
