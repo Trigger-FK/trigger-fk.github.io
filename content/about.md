@@ -28,9 +28,15 @@ Graduate School of Environmental Engineering, The University of Kitakyushu
 * 2018.04 - 2022.03  
 **Bachelor of Engineering**  
 Department of Mechanical Systems Engineering, The University of Kitakyushu  
-    * Ikeda Lab., System Control Research Group 
+    * Ikeda Lab., System Control Research Group
     * Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
     * Thesis: _Distributed Formation Control for Discrete-time Systems with Field-of-View Constraint_
+
+# Research Experience
+* 2026.04 - 2026.06  
+**Visiting Research Student**  
+Department of Decision and Control Systems, KTH Royal Institute of Technology 
+    * Host: [Prof. Dimos V. Dimarogonas](https://people.kth.se/~dimos/) 
 
 # Service / Professional Activities
 ## Committees & Leadership
