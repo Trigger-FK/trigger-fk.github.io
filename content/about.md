@@ -44,9 +44,10 @@ Department of Decision and Control Systems, KTH Royal Institute of Technology
 **Student Representative**, [IEEE RAS Technical Committee on Robot Control](https://ieee-ras-robot-control.github.io/)
 
 ## Organizer
-* Co-Organizer, [Open Challenges and Emerging Opportunities
-in Robot Control](https://ieee-ras-robot-control.github.io/oceo_rc_ecc26/),  
-European Control Conference 2026, Reykjavík, Iceland, July 7th, 2026.
+* Co-Organizer, [Open Challenges in Robot Control – Part II: Towards a Shared Research Agenda](https://ieee-ras-robot-control.github.io/ocrc_p2_ifac26/),  
+[IFAC World Congress 2026](https://www.ifac2026.org/fairDash.do), Busan, Republic of Korea, August 23rd, 2026.
+* Co-Organizer, [Open Challenges and Emerging Opportunities in Robot Control](https://ieee-ras-robot-control.github.io/oceo_rc_ecc26/),  
+[European Control Conference 2026](https://ecc26.euca-ecc.org/), Reykjavík, Iceland, July 7th, 2026.
 
 # Societies
 * The Society of Instrument and Control Engineers (SICE)
