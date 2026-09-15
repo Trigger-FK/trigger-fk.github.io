@@ -6,48 +6,101 @@ aliases = ["about-mw", "contact"]
 author = "Fumiya Matsuzaki"
 +++
 
-I am a Ph.D. student at Kyushu University, Joint Graduate School of Mathematics for Innovation.
-Currently, I work at the Control & Optimization Laboratory, advised by Prof. Kaoru Yamamoto.
+# Education
 
-<!-- My research interests lie in control theory, especially in applying control-theoretic methods to real-world systems such as robots and quadcopters. In particular, I aim to evaluate to what extent control performance can be improved by applying theoretical methods in practical environments, and to explore how control performance can be further enhanced under real-world conditions. -->
+{{< affiliation
+    logo="images/logos/kyushu-u.svg"
+    logoscale="0.85"
+    period="2024.04 - Present"
+    title="PhD Student"
+    org="Joint Graduate School of Mathematics for Innovation, Kyushu University"
+>}}
+* Affiliation: [Control & Optimization Lab. (ISEE)](https://sites.google.com/view/kyamamotolab/home-english)
+* Supervisor: [Prof. Kaoru Yamamoto](https://sites.google.com/site/kaoruyamamotoweb/)
+{{< /affiliation >}}
 
-# Education  
-* 2024.04 - Present  
-**Ph.D. Student**  
-Joint Graduate School of Mathematics for Innovation, Kyushu University  
-    * [Control & Optimization Lab. (ISEE)](https://sites.google.com/view/kyamamotolab/home-english)
-    * Supervisor: [Prof. Kaoru Yamamoto](https://sites.google.com/site/kaoruyamamotoweb/)
+{{< affiliation
+    logo="images/logos/kitakyu-u.svg"
+    period="2022.04 - 2024.03"
+    title="Master of Engineering"
+    org="Graduate School of Environmental Engineering, The University of Kitakyushu"
+>}}
+* Affiliation: Ikeda Lab., System Control Research Group
+* Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
+* Thesis: _Topology Identification for Consensus Network Systems via Sparse Structure Learning_
+{{< /affiliation >}}
 
-* 2022.04 - 2024.03  
-**Master of Engineering**  
-Graduate School of Environmental Engineering, The University of Kitakyushu  
-    * Ikeda Lab., System Control Research Group 
-    * Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
-    * Thesis: _Topology Identification for Consensus Network Systems via Sparse Structure Learning_
-
-* 2018.04 - 2022.03  
-**Bachelor of Engineering**  
-Department of Mechanical Systems Engineering, The University of Kitakyushu  
-    * Ikeda Lab., System Control Research Group
-    * Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
-    * Thesis: _Distributed Formation Control for Discrete-time Systems with Field-of-View Constraint_
+{{< affiliation
+    logo="images/logos/kitakyu-u.svg"
+    period="2018.04 - 2022.03"
+    title="Bachelor of Engineering"
+    org="Department of Mechanical Systems Engineering, The University of Kitakyushu"
+>}}
+* Affiliation: Ikeda Lab., System Control Research Group
+* Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
+* Thesis: _Distributed Formation Control for Discrete-time Systems with Field-of-View Constraint_
+{{< /affiliation >}}
 
 # Research Experience
-* 2026.04 - 2026.06  
-**Visiting Research Student**  
-Department of Decision and Control Systems, KTH Royal Institute of Technology 
-    * Host: [Prof. Dimos V. Dimarogonas](https://people.kth.se/~dimos/) 
+
+{{< affiliation
+    logo="images/logos/kth.svg"
+    logoscale="0.85"
+    period="2026.04 - 2026.06"
+    title="Visiting Research Student"
+    org="Department of Decision and Control Systems, KTH Royal Institute of Technology"
+>}}
+* Host: [Prof. Dimos V. Dimarogonas](https://people.kth.se/~dimos/)
+* Research Theme: _Event-Based Control via Lifting Technique_
+{{< /affiliation >}}
 
 # Service / Professional Activities
 ## Committees & Leadership
-* 2025.04 – Present  
-**Student Representative**, [IEEE RAS Technical Committee on Robot Control](https://ieee-ras-robot-control.github.io/)
+
+{{< affiliation
+    logo="images/logos/tcrc_color.svg"
+    period="2025.04 - Present"
+    title="Student Representative"
+    org="[IEEE RAS Technical Committee on Robot Control](https://ieee-ras-robot-control.github.io/)"
+>}}
+{{< /affiliation >}}
 
 ## Organizer
-* Co-Organizer, [Open Challenges in Robot Control – Part II: Towards a Shared Research Agenda](https://ieee-ras-robot-control.github.io/ocrc_p2_ifac26/),  
-[IFAC World Congress 2026](https://www.ifac2026.org/fairDash.do), Busan, Republic of Korea, August 23rd, 2026.
-* Co-Organizer, [Open Challenges and Emerging Opportunities in Robot Control](https://ieee-ras-robot-control.github.io/oceo_rc_ecc26/),  
-[European Control Conference 2026](https://ecc26.euca-ecc.org/), Reykjavík, Iceland, July 7th, 2026.
+{{< affiliation
+    logo=""
+    period="2026.08.23"
+    title="Co-Organizer"
+    org="[Is Robotics Underinvesting in Its Own Foundations?](https://ieee-ras-robot-control.github.io/iros_sf/)"
+>}}
+* Forum at [IEEE/RSJ International Conference on Intelligent Robots and Systems 2026](https://2026.ieee-iros.org/), Pittsburgh, USA
+{{< /affiliation >}}
+
+{{< affiliation
+    logo=""
+    period="2026.09.02"
+    title="Co-Organizer"
+    org="学術ランチョンセミナーC「自分の研究テーマの見つけ方」"
+>}}
+* Lunchon Seminar at [44th Annual Conference of the Robotics Society of Japan](https://ac.rsj-web.org/2026/), Kanazawa, Japan
+{{< /affiliation >}}
+
+{{< affiliation
+    logo=""
+    period="2026.08.23"
+    title="Co-Organizer"
+    org="[Open Challenges in Robot Control – Part II: Towards a Shared Research Agenda](https://ieee-ras-robot-control.github.io/ocrc_p2_ifac26/)"
+>}}
+* Workshop at [IFAC World Congress 2026](https://www.ifac2026.org/fairDash.do), Busan, Republic of Korea
+{{< /affiliation >}}
+
+{{< affiliation
+    logo=""
+    period="2026.07.07"
+    title="Co-Organizer"
+    org="[Open Challenges and Emerging Opportunities in Robot Control](https://ieee-ras-robot-control.github.io/oceo_rc_ecc26/)"
+>}}
+* Workshop at [European Control Conference 2026](https://ecc26.euca-ecc.org/), Reykjavík, Iceland
+{{< /affiliation >}}
 
 # Societies
 * The Society of Instrument and Control Engineers (SICE)
@@ -57,11 +110,3 @@ Department of Decision and Control Systems, KTH Royal Institute of Technology
     * IEEE Control Systems Society (CSS)
     * IEEE Robotics and Automation Society (RAS)
     * IEEE Industrial Electronics Society (IES)
-
-# Award
-* IEEE Best Student Award of Fukuoka Section (2025.02)
-* Exemption from Repayment of JASSO Type 1 Scholarship Loan due to Outstanding Academic Achievements (Half Exemption), Japan Student Services Organization (2024.07)
-* Miura Award, The Japan Society of Mechanical Engineers (2024.03)  
-* Encouragement Award, The University of Kitakyushu (2021.07)  
-* Encouragement Award, The University of Kitakyushu (2020.07)  
-* Outstanding Achievement Award, The University of Kitakyushu (2019.07) 

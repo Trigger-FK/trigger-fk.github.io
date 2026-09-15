@@ -6,13 +6,18 @@ aliases = []
 author = "Fumiya Matsuzaki"
 +++
 
-# OUXT Polaris (2023.04 - Present)
+# Maritime RobotX Challenge / RoboBoat
+{{< affiliation
+    logo="images/logos/ouxt.svg"
+    logoscale="0.85"
+    period="2023.04 - Present"
+    title="Student Member"
+    org="[OUXT Polaris](https://www.ouxt.jp/)"
+>}}
 * Software Developer: Perception
 * Quadrotor Developer
 * PR Manager
-
-## Award
-* RoboBoat 2025 **Special Award (Persistence Exemplified)**
+{{< /affiliation >}}
 
 ## Domestic Conference
 * 大西 凌平, 二見 堅太, 藤岡 怜生, <u>松崎 史弥</u>, 西田 祐也,  
@@ -40,35 +45,34 @@ ROSCon JP, 2023.
 * <u>松崎 史弥</u>,  
 **RoboBoatに向けた小型自律航行船の開発**,  
 ROS Japan UG #58 九州ROSJP, 2025.
-[[Slide](https://docs.google.com/presentation/d/1RmWp0zIBPuuZPmyUTQRwLDea-TbuT-oh9PCh-SNSjzA/edit?usp=sharing)]  
-
-Website: [OUXT Polaris](https://www.ouxt.jp/)
+[[Slide](https://docs.google.com/presentation/d/1RmWp0zIBPuuZPmyUTQRwLDea-TbuT-oh9PCh-SNSjzA/edit?usp=sharing)]
 
 
-# Hibikino-Musashi@Home (2022.10 - 2024.03) 
+# RoboCup@Home
+{{< affiliation
+    logo="images/logos/hma.svg"
+    logoscale="0.85"
+    period="2022.10 - 2024.03"
+    title="Student Member"
+    org="[Hibikino-Musashi@Home](https://www.brain.kyutech.ac.jp/~hma/ja/top/)"
+>}}
 * Main Task Programmer: Carry My Luggage (2023)
-* Developer: Human Following Function (YoloV7 + StrongSORT)
+* Developer: Human Following Function
+{{< /affiliation >}}
 
 ## Team Description Paper
 * [Hibikino-Musashi@Home 2024 Team Description Paper](https://arxiv.org/abs/2410.06192), arXiv:2410.06192.
 * [Hibikino-Musashi@Home 2023 Team Description Paper](https://arxiv.org/abs/2310.12650), arXiv:2310.12650.
 
-## Award
-* RoboCup 2023 in Bordeaux @Home Domestic Standard Platform League **2nd Place**
-* RoboCup Japan Open 2023 @Home Open Platform League **2nd Place**
-* RoboCup Japan Open 2023 @Home Open Platform League Open Challenge **1st Place**
-* RoboCup Japan Open 2022 @Home Open Platform League **2nd Place**
-* RoboCup Japan Open 2022 @Home Open Platform League Technical Challenge **1st Place**
 
-Website: [Hibikino-Musashi@Home](https://www.brain.kyutech.ac.jp/~hma/ja/top/)
-
-
-# FUKUOKA NIWAKA (2020.08 - 2023.03)
+# RoboMaster
+{{< affiliation
+    logo="images/logos/niwaka.svg"
+    logoscale="0.85"
+    period="2020.08 - 2023.03"
+    title="Control Team Member"
+    org="[FUKUOKA NIWAKA](https://projectrm.niwakasoft.jp/)"
+>}}
 * Control Developer: Inverted Pendulum, Quadrotor (2021 - 2023)  
 * PR Manager: NEWS Page, Twitter (2020 - 2021)
-
-## Award
-* RoboMaster 2021 Robotics Competition&Technical Challenge Online Assessment **Second Prize**
-* RoboMaster Universities from Hong Kong, Taiwan, Macau and Overseas 2021 **Second Prize**
-
-Website: [FUKUOKA NIWAKA](https://projectrm.niwakasoft.jp/)
+{{< /affiliation >}}
