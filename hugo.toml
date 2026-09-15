@@ -84,12 +84,16 @@ hidecolorschemetoggle = true
         weight = 2
         url = "publications/"
     [[languages.en.menu.main]]
-        name = "Activities"
+        name = "Awards"
         weight = 3
+        url = "awards/"
+    [[languages.en.menu.main]]
+        name = "Activities"
+        weight = 4
         url = "activities/"
     [[languages.en.menu.main]]
         name = "Blog"
-        weight = 4
+        weight = 5
         url = "blog/"
 
 [caches]
