@@ -5,7 +5,7 @@ date = "2019-02-28"
 aliases = []
 author = "Fumiya Matsuzaki"
 +++
-# Jounal Article
+## Jounal Article
 * N. Gerdpratoom, <u>F. Matsuzaki</u>, Y. Yamamoto, and K. Yamamoto,   
 **[Enhanced Sampled-Data Model Predictive Control via Nonlinear Lifting](https://onlinelibrary.wiley.com/doi/10.1002/rnc.70083?af=R)**,  
 _International Journal of Robust and Nonlinear Control_, vol. 35, no. 18, pp. 7621--7632, 2025.
@@ -14,7 +14,11 @@ _International Journal of Robust and Nonlinear Control_, vol. 35, no. 18, pp. 76
 **[Sparse Topology Estimation for Consensus Network Systems via Minimax Concave Penalty](https://ieeexplore.ieee.org/document/10542337)**,  
 _IEEE Control Systems Letters_, vol. 8, pp. 1012--1017, 2024.
 
-# International Conference
+## International Conference
+* <u>F. Matsuzaki</u>, A.Sakaguchi, and K.Yamamoto,  
+**[Lifting-based nonlinear model predictive control for high-performance mobile robot tracking](https://xplorestaging.ieee.org/document/11684056)**,  
+_10th IEEE Conference on Control Technology and Applications_, Vancouver, Canada, August 13, 2026.
+
 * <u>F. Matsuzaki</u> and T. Ikeda,  
 **Sparse topology estimation for consensus network systems via minimax concave penalty**,  
 _63rd IEEE Conference on Decision and Control_, Milano, Italy, December 18, 2024 (with L-CSS option). 
@@ -27,17 +31,30 @@ _62nd Annual Conference of the Society of Instrument and Control Engineers_, Mie
 **Distributed formation control for discrete-time systems with field of view constraint**,  
 _13th Asian Control Conference_, Jeju, Korea, May 6, 2022.
 
+## International Workshop
+* <u>Fumiya Matsuzaki</u>,  
+**High-Precision Model Predictive Control under Resource Constraints via Nonlinear Lifting Technique**,  
+_Workshop on Uncertain Dynamical Systems_, Osaka, Japan, August 20, 2026.
+
 <!-- # Preprint
 * N. Gerdpratoom, <u>F. Matsuzaki</u>, Y. Yamamoto, and K. Yamamoto,   
 **[Enhanced sampled-data model predictive control via nonlinear lifting](https://arxiv.org/abs/2501.05815)**,  
 _arXiv:2501.05815_, 2025. -->
 
-# Domestic Conference
+## Domestic Conference
 * <u>松崎 史弥</u>, 坂口 聡範, 山本 薫,  
 **リフティングによる非線形サンプル値モデル予測制御とクアッドロータの軌道追従**,  
 第43回日本ロボット学会学術講演会, 東京, September 5, 2025.
 
-# Others
+## Others
+* <u>松崎 史弥</u>,  
+**非線形リフティングを用いたリソース制約下での高精度モデル予測制御**,  
+制御理論若手合宿2026, 熱海, September 8, 2026.
+
+* <u>松崎 史弥</u>,  
+**サンプル点間を考えるロボット制御**,  
+KUPAC 第9回フィジカルAI勉強会, 京都, August 21, 2026.
+
 * <u>松崎 史弥</u>,  
 **線形リフティングと非線形システムへの導入**,  
-制御理論若手合宿2024, 愛知, September 11, 2025.
+制御理論若手合宿2024, 名古屋, September 11, 2024.
