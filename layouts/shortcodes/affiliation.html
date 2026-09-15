@@ -1,0 +1,33 @@
+{{- /*
+  Affiliation card: logo on the left, details on the right.
+  When `logo` is omitted, the card gets the extra class "affil--nologo"
+  and no logo box is rendered (text starts at the left edge).
+  Optional `logoscale` (e.g. "0.85") shrinks the logo inside its box.
+
+  Usage (inner content is Markdown, e.g. a bullet list of details):
+
+    {{< affiliation
+        logo="images/logos/kyushu-u.svg"
+        period="2024.04 - Present"
+        title="Ph.D. Student"
+        org="Joint Graduate School of Mathematics for Innovation, Kyushu University"
+    >}}
+    * [Lab link](https://...)
+    * Supervisor: [Name](https://...)
+    {{< /affiliation >}}
+*/ -}}
+{{- $logo := .Get "logo" -}}
+{{- $org := .Get "org" -}}
+<div class="affil{{ if not $logo }} affil--nologo{{ end }}">
+  {{- with $logo }}
+  <div class="affil-logo"{{ with $.Get "logoscale" }} style="--logo-scale: {{ . }}"{{ end }}>
+    <img src="{{ . | relURL }}" alt="{{ $org }}" loading="lazy" onerror="this.remove()">
+  </div>
+  {{- end }}
+  <div class="affil-body">
+    {{- with .Get "period" }}<div class="affil-period">{{ . }}</div>{{ end }}
+    {{- with .Get "title" }}<div class="affil-title">{{ . | markdownify }}</div>{{ end }}
+    {{- with $org }}<div class="affil-org">{{ . | markdownify }}</div>{{ end }}
+    {{- with (trim .Inner " \n\t") }}<div class="affil-details">{{ . | markdownify }}</div>{{ end }}
+  </div>
+</div>
