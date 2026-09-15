@@ -14,7 +14,7 @@ author = "Fumiya Matsuzaki"
 * **Outstanding Achievement Award**, The University of Kitakyushu (2019.07)
 
 # Research
-* **Student Travel Support**, IEEE Conference on Control Technology and Applications (CCTA 2026), IEEE Control Systems Society (2026.06)
+* **Student Travel Support** (CCTA 2026), IEEE Control Systems Society (IEEE CSS) (2026.06)
 * **Best Student Award**, IEEE Fukuoka Section (2025.02)
 
 # Activities
