@@ -102,6 +102,10 @@ author = "Fumiya Matsuzaki"
 * Workshop at [European Control Conference 2026](https://ecc26.euca-ecc.org/), Reykjavík, Iceland
 {{< /affiliation >}}
 
+## Reviewer
+* IEEE Conference on Control Technology and Applications
+* SICE Festival with Annual Conference
+
 ## Societies
 * The Society of Instrument and Control Engineers (SICE)
 * The Institute of Systems, Control and Information Engineer (ISCIE)
