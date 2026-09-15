@@ -6,7 +6,7 @@ aliases = ["about-mw", "contact"]
 author = "Fumiya Matsuzaki"
 +++
 
-# Education
+## Education
 
 {{< affiliation
     logo="images/logos/kyushu-u.svg"
@@ -41,7 +41,7 @@ author = "Fumiya Matsuzaki"
 * Thesis: _Distributed Formation Control for Discrete-time Systems with Field-of-View Constraint_
 {{< /affiliation >}}
 
-# Research Experience
+## Research Experience
 
 {{< affiliation
     logo="images/logos/kth.svg"
@@ -54,8 +54,8 @@ author = "Fumiya Matsuzaki"
 * Research Theme: _Event-Based Control via Lifting Technique_
 {{< /affiliation >}}
 
-# Service / Professional Activities
-## Committees & Leadership
+## Service / Professional Activities
+### Committees & Leadership
 
 {{< affiliation
     logo="images/logos/tcrc_color.svg"
@@ -65,7 +65,7 @@ author = "Fumiya Matsuzaki"
 >}}
 {{< /affiliation >}}
 
-## Organizer
+### Organizer
 {{< affiliation
     logo=""
     period="2026.08.23"
@@ -102,7 +102,7 @@ author = "Fumiya Matsuzaki"
 * Workshop at [European Control Conference 2026](https://ecc26.euca-ecc.org/), Reykjavík, Iceland
 {{< /affiliation >}}
 
-# Societies
+## Societies
 * The Society of Instrument and Control Engineers (SICE)
 * The Institute of Systems, Control and Information Engineer (ISCIE)
 * The Robotics Society of Japan (RSJ)
