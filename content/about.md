@@ -70,7 +70,7 @@ author = "Fumiya Matsuzaki"
     logo=""
     period="2026.08.23"
     title="Co-Organizer"
-    org="[Is Robotics Underinvesting in Its Own Foundations?](https://ieee-ras-robot-control.github.io/iros_sf/)"
+    org="[Is Robotics Underinvesting in Its Own Foundations?](https://ieee-ras-robot-control.github.io/iros26_sf/)"
 >}}
 * Forum at [IEEE/RSJ International Conference on Intelligent Robots and Systems 2026](https://2026.ieee-iros.org/), Pittsburgh, USA
 {{< /affiliation >}}
