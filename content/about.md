@@ -68,7 +68,7 @@ author = "Fumiya Matsuzaki"
 ### Organizer
 {{< affiliation
     logo=""
-    period="2026.08.23"
+    period="2026.09.29"
     title="Co-Organizer"
     org="[Is Robotics Underinvesting in Its Own Foundations?](https://ieee-ras-robot-control.github.io/iros26_sf/)"
 >}}
