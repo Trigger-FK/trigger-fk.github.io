@@ -6,7 +6,7 @@ aliases = []
 author = "Fumiya Matsuzaki"
 +++
 
-# Maritime RobotX Challenge / RoboBoat
+## Maritime RobotX Challenge / RoboBoat
 {{< affiliation
     logo="images/logos/ouxt.svg"
     logoscale="0.85"
@@ -19,7 +19,7 @@ author = "Fumiya Matsuzaki"
 * PR Manager
 {{< /affiliation >}}
 
-## Domestic Conference
+### Domestic Conference
 * 大西 凌平, 二見 堅太, 藤岡 怜生, <u>松崎 史弥</u>, 西田 祐也,  
 **RoboBoat2025 のための自律航行型無人船の開発**,  
 ロボティクス・メカトロニクス講演会, 山形, 6月6日, 2025.
@@ -28,7 +28,7 @@ author = "Fumiya Matsuzaki"
 **Maritime RobotXへの挑戦を通じた技術活動**,  
 第41回日本ロボット学会学術講演会, 宮城, 9月11日, 2023.
 
-## Tech Conference:
+### Tech Conference:
 * 藤岡 怜生, 二見 堅太, 糸園 朔, <u>松崎 史弥</u>, 片岡 大哉, 小林 聖人,  
 **Martime RobotX Challenge2024に向けた自律航行ハードウェアとROS 2とのインテグレーション**,  
 ROSCon JP, 2024. 
@@ -41,14 +41,14 @@ ROSCon JP, 2023.
 [[Slide](https://roscon.jp/2023/presentations/026.pdf)]
 [[Video](https://vimeo.com/883809035)]
 
-## Tech Event Presentation:
+### Tech Event Presentation:
 * <u>松崎 史弥</u>,  
 **RoboBoatに向けた小型自律航行船の開発**,  
 ROS Japan UG #58 九州ROSJP, 2025.
 [[Slide](https://docs.google.com/presentation/d/1RmWp0zIBPuuZPmyUTQRwLDea-TbuT-oh9PCh-SNSjzA/edit?usp=sharing)]
 
 
-# RoboCup@Home
+## RoboCup@Home
 {{< affiliation
     logo="images/logos/hma.svg"
     logoscale="0.85"
@@ -60,12 +60,12 @@ ROS Japan UG #58 九州ROSJP, 2025.
 * Developer: Human Following Function
 {{< /affiliation >}}
 
-## Team Description Paper
+### Team Description Paper
 * [Hibikino-Musashi@Home 2024 Team Description Paper](https://arxiv.org/abs/2410.06192), arXiv:2410.06192.
 * [Hibikino-Musashi@Home 2023 Team Description Paper](https://arxiv.org/abs/2310.12650), arXiv:2310.12650.
 
 
-# RoboMaster
+## RoboMaster
 {{< affiliation
     logo="images/logos/niwaka.svg"
     logoscale="0.85"
