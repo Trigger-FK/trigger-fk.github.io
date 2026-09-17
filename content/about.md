@@ -73,15 +73,17 @@ author = "Fumiya Matsuzaki"
     org="[Is Robotics Underinvesting in Its Own Foundations?](https://ieee-ras-robot-control.github.io/iros26_sf/)"
 >}}
 * Forum at [IEEE/RSJ International Conference on Intelligent Robots and Systems 2026](https://2026.ieee-iros.org/), Pittsburgh, USA
+* Organized by [IEEE RAS Technical Committee on Robot Control](https://ieee-ras-robot-control.github.io/)
 {{< /affiliation >}}
 
 {{< affiliation
     logo=""
     period="2026.09.02"
     title="Co-Organizer"
-    org="[学術ランチョンセミナーC「自分の研究テーマの見つけ方」](https://ac.rsj-web.org/2026/luncheonseminar/#113)"
+    org="[学術ランチョンセミナーC「自分の」研究テーマの見つけ方](https://ac.rsj-web.org/2026/luncheonseminar/#113)"
 >}}
-* Lunchon Seminar at [44th Annual Conference of the Robotics Society of Japan](https://ac.rsj-web.org/2026/), Kanazawa, Japan
+* Luncheon Seminar at [44th Annual Conference of the Robotics Society of Japan](https://ac.rsj-web.org/2026/), Kanazawa, Japan
+* Organized by student volunteers and the [RSJ Technical Committee on Career Path Development for Young Researchers and Students (Roboyan)](https://www.robo-young.jp/)
 {{< /affiliation >}}
 
 {{< affiliation
@@ -91,6 +93,7 @@ author = "Fumiya Matsuzaki"
     org="[Open Challenges in Robot Control – Part II: Towards a Shared Research Agenda](https://ieee-ras-robot-control.github.io/ocrc_p2_ifac26/)"
 >}}
 * Workshop at [IFAC World Congress 2026](https://www.ifac2026.org/fairDash.do), Busan, Republic of Korea
+* Organized by [IEEE RAS Technical Committee on Robot Control](https://ieee-ras-robot-control.github.io/) jointly with an external co-organizer
 {{< /affiliation >}}
 
 {{< affiliation
@@ -100,6 +103,7 @@ author = "Fumiya Matsuzaki"
     org="[Open Challenges and Emerging Opportunities in Robot Control](https://ieee-ras-robot-control.github.io/oceo_rc_ecc26/)"
 >}}
 * Workshop at [European Control Conference 2026](https://ecc26.euca-ecc.org/), Reykjavík, Iceland
+* Organized by [IEEE RAS Technical Committee on Robot Control](https://ieee-ras-robot-control.github.io/)
 {{< /affiliation >}}
 
 ### Community Resources
