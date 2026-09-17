@@ -316,6 +316,22 @@ h6 {
   object-position: center;
   display: block;
 }
+/* Cover variant (shortcode `cover=`): a portrait document thumbnail such as a
+   slide cover. Same width as the logo box, taller, with a thin frame. */
+.affil-logo--cover {
+  height: 12rem;
+  overflow: visible;
+}
+.affil-logo--cover a {
+  display: block;
+  height: 100%;
+}
+.affil-logo--cover img {
+  width: auto;
+  height: 100%;
+  border: 1px solid var(--color-border);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+}
 .affil-body {
   flex: 1;
   min-width: 0;
@@ -356,6 +372,9 @@ h6 {
     flex-basis: 5.6rem;
     width: 5.6rem;
     height: 5.6rem;
+  }
+  .affil-logo--cover {
+    height: 7.9rem;
   }
   .affil-title {
     font-size: 1.7rem;

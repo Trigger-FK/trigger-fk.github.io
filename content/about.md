@@ -79,7 +79,7 @@ author = "Fumiya Matsuzaki"
     logo=""
     period="2026.09.02"
     title="Co-Organizer"
-    org="学術ランチョンセミナーC「自分の研究テーマの見つけ方」"
+    org="[学術ランチョンセミナーC「自分の研究テーマの見つけ方」](https://ac.rsj-web.org/2026/luncheonseminar/#113)"
 >}}
 * Lunchon Seminar at [44th Annual Conference of the Robotics Society of Japan](https://ac.rsj-web.org/2026/), Kanazawa, Japan
 {{< /affiliation >}}
@@ -102,7 +102,29 @@ author = "Fumiya Matsuzaki"
 * Workshop at [European Control Conference 2026](https://ecc26.euca-ecc.org/), Reykjavík, Iceland
 {{< /affiliation >}}
 
-## Reviewer
+### Community Resources
+{{< affiliation
+    cover="images/covers/welcome-kit-icra2026.png"
+    link="https://docs.google.com/presentation/d/1naPPE0xhpJ1XDOm6LsAb_VLY1F39V5NNh2Yf0jLPXg4/edit?usp=sharing"
+    period=""
+    title="Author"
+    org="[Welcome Kit - ICRA 2026](https://docs.google.com/presentation/d/1naPPE0xhpJ1XDOm6LsAb_VLY1F39V5NNh2Yf0jLPXg4/edit?usp=sharing)"
+>}}
+* Conference guide for the robot control community at [IEEE International Conference on Robotics and Automation 2026](https://2026.ieee-icra.org/), Vienna, Austria
+* Prepared with Yuhe Gong and Daniele Caradonna as the TC on Robot Control Student Representatives
+{{< /affiliation >}}
+
+{{< affiliation
+    cover="images/covers/welcome-kit-icra2025.png"
+    link="https://docs.google.com/presentation/d/1Ohw3v87uaxTovjM5RM9Y7Zu2lP5NYKsi5BiZnN7FxTI/edit?usp=sharing"
+    period=""
+    title="Author"
+    org="[Welcome Kit - ICRA 2025](https://docs.google.com/presentation/d/1Ohw3v87uaxTovjM5RM9Y7Zu2lP5NYKsi5BiZnN7FxTI/edit?usp=sharing)"
+>}}
+* Conference guide for the robot control community at [IEEE International Conference on Robotics and Automation 2025](https://2025.ieee-icra.org/), Atlanta, USA
+{{< /affiliation >}}
+
+### Reviewer
 * IEEE Conference on Control Technology and Applications
 * SICE Festival with Annual Conference
 

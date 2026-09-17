@@ -3,6 +3,9 @@
   When `logo` is omitted, the card gets the extra class "affil--nologo"
   and no logo box is rendered (text starts at the left edge).
   Optional `logoscale` (e.g. "0.85") shrinks the logo inside its box.
+  Alternatively pass `cover` (a portrait document thumbnail, e.g. a slide
+  cover) instead of `logo`: it renders in a taller box with a thin frame.
+  Optional `link` wraps the logo/cover image in an anchor.
 
   Usage (inner content is Markdown, e.g. a bullet list of details):
 
@@ -17,11 +20,22 @@
     {{< /affiliation >}}
 */ -}}
 {{- $logo := .Get "logo" -}}
+{{- $cover := .Get "cover" -}}
+{{- $link := .Get "link" -}}
 {{- $org := .Get "org" -}}
-<div class="affil{{ if not $logo }} affil--nologo{{ end }}">
+<div class="affil{{ if not (or $logo $cover) }} affil--nologo{{ end }}">
   {{- with $logo }}
   <div class="affil-logo"{{ with $.Get "logoscale" }} style="--logo-scale: {{ . }}"{{ end }}>
+    {{- with $link }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
     <img src="{{ . | relURL }}" alt="{{ $org }}" loading="lazy" onerror="this.remove()">
+    {{- with $link }}</a>{{ end -}}
+  </div>
+  {{- end }}
+  {{- with $cover }}
+  <div class="affil-logo affil-logo--cover">
+    {{- with $link }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end -}}
+    <img src="{{ . | relURL }}" alt="{{ $org }}" loading="lazy" onerror="this.remove()">
+    {{- with $link }}</a>{{ end -}}
   </div>
   {{- end }}
   <div class="affil-body">
