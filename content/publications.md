@@ -15,7 +15,7 @@ _International Journal of Robust and Nonlinear Control_, vol. 35, no. 18, pp. 76
 _IEEE Control Systems Letters_, vol. 8, pp. 1012--1017, 2024.
 
 ## International Conference
-* <u>F. Matsuzaki</u>, A.Sakaguchi, and K.Yamamoto,  
+* <u>F. Matsuzaki</u>, A. Sakaguchi, and K. Yamamoto,  
 **[Lifting-based nonlinear model predictive control for high-performance mobile robot tracking](https://xplorestaging.ieee.org/document/11684056)**,  
 _10th IEEE Conference on Control Technology and Applications_, Vancouver, Canada, August 13, 2026.
 
