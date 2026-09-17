@@ -28,6 +28,7 @@ author = "Fumiya Matsuzaki"
 * Affiliation: Ikeda Lab., System Control Research Group
 * Supervisor: [Prof. Takuya Ikeda](https://sites.google.com/view/t-ikeda/%E3%83%9B%E3%83%BC%E3%83%A0-home)
 * Thesis: _Topology Identification for Consensus Network Systems via Sparse Structure Learning_
+* Honors: Graduated top of the Mechanical Systems Course (ranked 1st by academic performance)
 {{< /affiliation >}}
 
 {{< affiliation
